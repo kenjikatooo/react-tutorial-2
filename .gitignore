@@ -1,0 +1,2 @@
+# node_modules以下を全てignore
+node_modules
