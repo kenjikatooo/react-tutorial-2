@@ -5,7 +5,7 @@ const publidDir = path.join(__dirname, 'src');
 module.exports = [
   {
     entry: [
-      './js/client.js',
+      `${publidDir}/js/client.js`,
     ],
     output: {
       path: publidDir,
